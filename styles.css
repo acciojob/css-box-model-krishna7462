@@ -1,2 +1,39 @@
-
+*{
+	margin: 0;
+	padding:0;
+}
+.marginn{
+	border: 2px solid black;
+	margin:0px;
+	
+	
+}
+.border{
+	border: 2px solid black;
+	margin:20px;
+	background-color:blue;
+	
+}
+.padd{
+	border: 2px solid black;
+	margin:15px;
+	background-color:lightblue;
+}
+.pad-l{
+	position:relative;
+right:-15px;
+	bottom:-15px;
+}
+.padd .pad-r{
+	position:relative;
+	right:-75%;
+	
+}
+.text{
+	border: 2px solid black;
+	padding:20px;
+	text-align:center;
+	margin: 30px;
+	background-color:lightblue;
+}
 /* Your CSS Code here. */
