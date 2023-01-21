@@ -1,32 +1,10 @@
-*{
-	margin:0;
 
-}
-
-.margin{
-	border:2px solid black;
-	padding: 2px 16px 16px 16px;
-	width: 300px;
-	background-color:rgb(173, 216, 230);
-	
-}
-.border{
-	border:2px solid black;
-	padding: 2px 16px 16px 16px;	
-	background-color:rgb(173, 216, 230);
-	width:260px;
-}
-.padding{
-	border:2px solid black;
-	padding: 2px 16px 16px 16px;
-	background-color:rgb(173, 216, 230);
-	width:220px;
-}
 .content{
-	border:2px solid black;
-	padding:10px;
-	width:200px;
-	background-color:rgb(173, 216, 230);
+	margin: 20px;
+	border:15px solid blue;
+	padding:50px;
+	width:300px;
+	background-color:lightblue;
 }
 
 
