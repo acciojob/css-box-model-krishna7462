@@ -18,7 +18,7 @@
 .padding{
 	border:2px solid black;
 	padding: 2px 16px 16px 16px;
-	background-color:lightblue;
+	background-color:rgb(173, 216, 230);
 	width:220px;
 }
 .content{
